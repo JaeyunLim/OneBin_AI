@@ -34,5 +34,13 @@
 - 현재 Repository 안에 [Labelling raw datas 폴더]에 존재함
 
 ## 제4회 교내 추호학술제 발표자료 
-![image](https://github.com/JaeyunLim/OneBin_AI/assets/97609649/f2567386-f7f9-4fb2-a126-243cba521e89)
+
+![image](https://github.com/JaeyunLim/OneBin_AI/assets/97609649/258b6c04-e97b-4c30-8ad7-76143a29a282)
+
+![image](https://github.com/JaeyunLim/OneBin_AI/assets/97609649/8b4b8fa8-c9ea-47ec-a42f-4a2d4f688356)
+
+![image](https://github.com/JaeyunLim/OneBin_AI/assets/97609649/9ae41e56-897f-40e3-8e6b-f7fd246ff2ae)
+
+![image](https://github.com/JaeyunLim/OneBin_AI/assets/97609649/2fd8e4a2-eb6e-43fd-a752-dcd54d7c4d9a)
+
 
