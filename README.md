@@ -1,5 +1,4 @@
-# OneBin_AI
-# One Bin 프로젝트
+# OneBin_AI 프로젝트
 
 ## 프로젝트 소개
 - 지난 2학년 때에 객체 감지 기술을 이용한 AI 모델, YoLo v5(Your Only Look Once version5) 오픈소스를 활용하여
