@@ -37,7 +37,7 @@
 
 
 ## 학습에 사용한 데이터들
-- 현재 Repository 안에 [Labelling raw datas 폴더]에 존재함
+- 현재 Trash_Detection_AI Repository 안에 [Labelling raw datas 폴더]에 존재함
 
 ## 제4회 교내 추호학술제 발표자료 (이미지 등 일부 발췌)
 
