@@ -24,11 +24,15 @@
 
    
 ## 프로젝트 실행과정
-1. 오픈소스로 GitHub에 올라온 YOLO모델과 쓰레기 데이터들을 이용해 AI모델을 학습시킴
-2. 일
-3. 타 
-4. ChatBot에 대한 접근성을 높이기 위해 웹사이트 환경에서 ChatBot을 사용할 수 있게 ‘Streamlit’이라는 파이썬 패키지를 통해 제작
-5. Pandas AI를 통해 OneBin's ChatBot 구현 
+1. One Bin은 금속 소재(철)의 부품들 기어들 그리고 다량의 볼트와 너트가 포함되어있는 '과학상자’와 
+   다양한 모듈들(모터 및 센서들)을 작동시킬 수 있는 초소형 컴퓨터 기판인 ‘아두이노’를 활용 제작
+2. 오픈소스로 GitHub에 올라온 YOLO모델과 쓰레기 데이터들을 이용해 AI모델을 학습시킴 (기 수행)
+3. 기존에 학습시켜놓은 AI모델(=Yolo v5)의 파이썬 코드를 로봇에 맞게 수정하고 또 이에 맞게 아두이노를 작동시키는 C++코드를 새로 작성
+   ![image](https://github.com/JaeyunLim/OneBin_AI/assets/97609649/0850759d-c70d-4fca-b3f8-dfba057a887f)
+5. 기존에 존재하는 쓰레기 분리수거 로봇과 차별점을 두기위해 검출된 쓰레기에 대한 데이터관리까지 진행
+6. LLM을 활용해 One Bin이 만들어낸 엑셀파일 데이터에 대해 어떠한 질문이나 할 수 있는 ChatBot을 개발 (OneBin's ChatBot 구현)
+    * ChatBot에 대한 접근성을 높이기 위해 웹사이트 환경에서 ChatBot을 사용할 수 있게 ‘Streamlit’이라는 파이썬 패키지를 통해 제작
+
 
 ## 학습에 사용한 데이터들
 - 현재 Repository 안에 [Labelling raw datas 폴더]에 존재함
