@@ -4,6 +4,7 @@
 - 지난 2학년 때에 객체 감지 기술을 이용한 AI 모델, YoLo v5(Your Only Look Once version5) 오픈소스를 활용하여
 - 일상생활에서 분리배출을 할 때 사람들이 버리고 있는 쓰레기가 어떤 쓰레기인지 분류하는 객체 감지(Object Detection) 기술을 이용하여 실행했던 실험이며,
 - 3학년에 와서 이를 보다 더 업그레이드하여 지능형 가변적인 쓰레기 분리배출 시스템(HW)까지 확장하여 SW 개발한 실험의 결과임
+- 학생들이 농구하듯이 하나의 입구에 쓰레기를 투입(투구)하면서 재미를 느끼고 분리수거를 하게 됨(One Bin)
 
 
 ## 프로젝트 개발 동기
@@ -30,14 +31,15 @@
 3. 기존에 학습시켜놓은 AI모델(=Yolo v5)의 파이썬 코드를 로봇에 맞게 수정하고 또 이에 맞게 아두이노를 작동시키는 C++코드를 새로 작성
    ![image](https://github.com/JaeyunLim/OneBin_AI/assets/97609649/0850759d-c70d-4fca-b3f8-dfba057a887f)
 5. 기존에 존재하는 쓰레기 분리수거 로봇과 차별점을 두기위해 검출된 쓰레기에 대한 데이터관리까지 진행
-6. LLM을 활용해 One Bin이 만들어낸 엑셀파일 데이터에 대해 어떠한 질문이나 할 수 있는 ChatBot을 개발 (OneBin's ChatBot 구현)
+   ![image](https://github.com/JaeyunLim/OneBin_AI/assets/97609649/8e46eeab-afeb-4943-b6af-79a6a9861c4f)
+7. LLM을 활용해 One Bin이 만들어낸 엑셀파일 데이터에 대해 어떠한 질문이나 할 수 있는 ChatBot을 개발 (OneBin's ChatBot 구현)
     * ChatBot에 대한 접근성을 높이기 위해 웹사이트 환경에서 ChatBot을 사용할 수 있게 ‘Streamlit’이라는 파이썬 패키지를 통해 제작
 
 
 ## 학습에 사용한 데이터들
 - 현재 Repository 안에 [Labelling raw datas 폴더]에 존재함
 
-## 제4회 교내 추호학술제 발표자료 
+## 제4회 교내 추호학술제 발표자료 (이미지 등 일부 발췌)
 
 ![image](https://github.com/JaeyunLim/OneBin_AI/assets/97609649/258b6c04-e97b-4c30-8ad7-76143a29a282)
 
