@@ -34,6 +34,7 @@
    ![image](https://github.com/JaeyunLim/OneBin_AI/assets/97609649/8e46eeab-afeb-4943-b6af-79a6a9861c4f)
 7. LLM을 활용해 One Bin이 만들어낸 엑셀파일 데이터에 대해 어떠한 질문이나 할 수 있는 ChatBot을 개발 (OneBin's ChatBot 구현)
     * ChatBot에 대한 접근성을 높이기 위해 웹사이트 환경에서 ChatBot을 사용할 수 있게 ‘Streamlit’이라는 파이썬 패키지를 통해 제작
+   ![image](https://github.com/JaeyunLim/OneBin_AI/assets/97609649/30156ad6-5e83-47a2-a08e-a60086824865)
 
 
 ## 학습에 사용한 데이터들
